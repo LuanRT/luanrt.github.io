@@ -4778,8 +4778,6 @@ h2,
 h3,
 h4,
 strong {
-    margin-top: 1em;
-    padding-top: 1em;
     line-height: 1.25;
     color: rgb(255,255,255)
 }
@@ -4847,14 +4845,14 @@ p {
 .header .site-title {
     font-size: 30px;
     display: block;
-    line-height: 1;
-    color: rgb(189,189,189);
+    line-height: 2;
+    color: rgb(189, 189, 189);
 }
 
 @media only screen and (min-width:550px) {
     .header .site-title {
         margin: 0;
-        font-size: 100px
+        font-size: 50px
     }
 }
 
@@ -4868,7 +4866,7 @@ p {
 
 @media only screen and (min-width:550px) {
     .header .site-description {
-        font-size: 40px
+        font-size: 20px
     }
 }
 
@@ -4961,6 +4959,7 @@ p {
 #about {
     width: 90%;
     margin: 0 auto;
+    padding-top: 20px;
     max-width: 960px
 }
 
@@ -4997,6 +4996,10 @@ p {
 .user-details {
     text-align: center;
     margin: 3px auto;
+}
+
+.user-details p {
+    font-size: 1.2rem;
 }
 
 #projects {

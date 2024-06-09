@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title222">YTJS Logo</title>
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <ellipse
+       style="display:inline;fill:#3e3748;fill-opacity:1;stroke-width:1.09514"
+       id="main_circle"
+       cx="256.71045"
+       cy="256"
+       rx="252.62663"
+       ry="252.6299">
+      <title
+         id="title26">Main Circle</title>
+    </ellipse>
+    <ellipse
+       style="display:inline;fill:#f2e790;fill-opacity:1;stroke-width:0.830612"
+       id="second_circle"
+       cx="256.07089"
+       cy="256"
+       rx="191.6059"
+       ry="191.60838">
+      <title
+         id="title12">Second Circle</title>
+    </ellipse>
+    <path
+       style="display:inline;fill:#3e3748;fill-opacity:1"
+       id="triangle"
+       d="M 186.93087,145.17926 446.45446,-4.5923334 a 16.746914,16.746914 30.005102 0 1 25.11767,14.5046763 l 0.002,299.6564271 a 16.740502,16.740502 150.00347 0 1 -25.11262,14.49676 L 186.92629,174.17783 a 16.742057,16.742057 90.009037 0 1 0.005,-28.99857 z"
+       transform="matrix(-0.50944234,0,0,0.50822277,439.2646,174.81692)">
+      <title
+         id="title10">Main Triangle</title>
+    </path>
+  </g>
+  <g
+     id="layer2">
+    <path
+       style="display:inline;fill:#bcbcbc;fill-opacity:0.932822;stroke-width:1.273;stroke-dasharray:none"
+       id="rect10"
+       width="136.48648"
+       height="104.00893"
+       x="320.85684"
+       y="302.66705"
+       transform="matrix(1.0961456,0,0,1.0961456,-41.410257,-38.100103)"
+       d="m 341.85684,302.66705 h 94.48648 a 21,21 45 0 1 21,21 v 62.00893 a 21,21 135 0 1 -21,21 l -94.48648,0 a 21,21 45 0 1 -21,-21 v -62.00893 a 21,21 135 0 1 21,-21 z" />
+    <path
+       d="m 318.25961,383.7497 q 0,-3.73847 2.66225,-6.40072 2.66225,-2.66225 6.40072,-2.66225 3.73848,0 6.40072,2.66225 2.66225,2.66225 2.66225,6.40072 0,3.68183 -2.66225,6.34408 -2.66224,2.66225 -6.40072,2.66225 -3.73847,0 -6.40072,-2.66225 -2.66225,-2.66225 -2.66225,-6.34408 z m 50.35612,-66.27295 h 15.8602 v 52.6785 q 0,10.25248 -5.66436,16.48327 -5.66435,6.2308 -14.84061,6.2308 -6.6273,0 -11.89515,-3.90841 -5.2112,-3.9084 -8.04338,-11.95179 l 11.66857,-8.83639 v 0.22657 q 0.11329,0.0566 1.13287,2.49232 1.01959,2.43567 2.54896,4.41819 1.58602,1.92588 3.39862,1.92588 2.66224,0 4.24826,-2.20909 1.58602,-2.2091 1.58602,-5.89093 z m 72.67368,6.74058 -9.96926,10.9322 q -7.87346,-4.64477 -11.32871,-4.64477 -2.66225,0 -4.58813,2.03917 -1.92588,1.98253 -1.92588,4.75806 0,5.49442 9.96926,9.51612 7.30702,3.11539 11.0455,5.66435 3.73847,2.49232 6.23079,6.96716 2.54896,4.47484 2.54896,9.68605 0,9.57276 -7.76017,16.6532 -7.70352,7.08045 -18.23922,7.08045 -11.55529,0 -22.82736,-10.87557 L 404.9809,369.7021 q 7.08044,7.30702 13.25459,7.30702 2.88882,0 5.55106,-2.54896 2.66225,-2.6056 2.66225,-5.43778 0,-5.83429 -12.29165,-10.25248 -7.0238,-2.54896 -9.96926,-4.75806 -2.94547,-2.26574 -4.98464,-6.51401 -1.98252,-4.30491 -1.98252,-8.77975 0,-9.91262 6.45736,-16.08677 6.45737,-6.17415 16.87978,-6.17415 12.3483,0 20.73154,7.76017 z"
+       id="text14"
+       style="font-weight:bold;font-size:116.006px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Bold';fill:#3e3748;fill-opacity:0.89;stroke-width:10.6445"
+       transform="scale(1.0113831,0.98874502)"
+       aria-label=".JS" />
+  </g>
+  <metadata
+     id="metadata222">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>YTJS Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luan R. Torquato</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Luan R. Torquato</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Luan R. Torquato</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>Eng</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
